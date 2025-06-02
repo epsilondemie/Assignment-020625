@@ -1,11 +1,11 @@
-pilot_id,first_name,last_name,experience_years,date_of_birth,nationality,phone_number,email,passport_number,license_type,license_number,first_line_of_address,town_city,country,postcode,county,work_eligibility
-P1243,Alice,Smith,10,12/04/1985,UK,+44 7385 409764,alice.smith@gmail.com,P1234567,ATPL,LIC123,95 Castillo Tunnel,Manchester,UK,M1 7JH,Greater Manchester,confirmed
-P1244,Bob,Johnson,8,23/07/1987,USA,+44 7467 588297,bob.johnson@gmail.com,P2345678,CPL,LIC124,399 Alexander Summit,Reading,UK,RG1 7HN,Berkshire,confirmed
-P1245,Charlie,Lee,12,10/02/1982,Canada,+44 7812 154772,charlie.lee@gmail.com,P3456789,ATPL,LIC125,214 Collins Station,Leeds,UK,LS1 5DS,West Yorkshire,confirmed
-P1246,Diana,Kim,7,05/11/1990,South Korea,+44 7497 147735,diana.kim@gmail.com,P4567890,MPL,LIC126,455 Jennifer Forks,Bristol,UK,BS1 4SU,Bristol,confirmed
-P1247,Edward,Brown,15,18/09/1979,Australia,+44 7571 734759,edward.brown@gmail.com,P5678901,ATPL,LIC127,90 Faith Lane,Sheffield,UK,S1 9SC,South Yorkshire,confirmed
-P1248,Billy,Pacheco,14,01/08/1980,UK,+44 7114 190100,billy.pacheco@gmail.com,P6007692,ATPL,LIC675,218 Watts Pines,Manchester,UK,M1 2KN,Greater Manchester,confirmed
-P1249,Leah,Macias,18,23/12/1966,UK,+44 7737 272903,leah.macias@gmail.com,P1988076,CPL,LIC267,224 Nash Valley,Sheffield,UK,S1 1TK,South Yorkshire,confirmed
-P1250,Russell,Hernandez,7,05/06/1982,UK,+44 7980 352652,russell.hernandez@gmail.com,P5581516,ATPL,LIC857,709 John Manor,Leeds,UK,LS1 9VY,West Yorkshire,confirmed
-P1251,Peter,Walsh,9,14/09/1980,UK,+44 7419 168469,peter.walsh@gmail.com,P6369078,CPL,LIC970,106 Victor Islands,Manchester,UK,M1 7XA,Greater Manchester,confirmed
-P1252,Adam,Schultz,17,03/12/1991,UK,+44 7932 236820,adam.schultz@gmail.com,P5907629,MPL,LIC449,801 Hernandez Knolls,Edinburgh,UK,EH1 6RF,Edinburgh,confirmed
+pilot_id,first_name,last_name,experience_years,date_of_birth,nationality,phone_number,email,passport_number,license_number,first_line_of_address,town_city,country,postcode,county,work_eligibility
+P1243,Alice,Smith,10,12/04/1985,UK,+44 7385 409764,alice.smith@gmail.com,P1234567,LIC123,95 Castillo Tunnel,Manchester,UK,M1 7JH,Greater Manchester,confirmed
+P1244,Bob,Johnson,8,23/07/1987,USA,+44 7467 588297,bob.johnson@gmail.com,P2345678,LIC124,399 Alexander Summit,Reading,UK,RG1 7HN,Berkshire,confirmed
+P1245,Charlie,Lee,12,10/02/1982,Canada,+44 7812 154772,charlie.lee@gmail.com,P3456789,LIC125,214 Collins Station,Leeds,UK,LS1 5DS,West Yorkshire,confirmed
+P1246,Diana,Kim,7,05/11/1990,South Korea,+44 7497 147735,diana.kim@gmail.com,P4567890,LIC126,455 Jennifer Forks,Bristol,UK,BS1 4SU,Bristol,confirmed
+P1247,Edward,Brown,15,18/09/1979,Australia,+44 7571 734759,edward.brown@gmail.com,P5678901,LIC127,90 Faith Lane,Sheffield,UK,S1 9SC,South Yorkshire,confirmed
+P1248,Billy,Pacheco,14,01/08/1980,UK,+44 7114 190100,billy.pacheco@gmail.com,P6007692,LIC675,218 Watts Pines,Manchester,UK,M1 2KN,Greater Manchester,confirmed
+P1249,Leah,Macias,18,23/12/1966,UK,+44 7737 272903,leah.macias@gmail.com,P1988076,LIC267,224 Nash Valley,Sheffield,UK,S1 1TK,South Yorkshire,confirmed
+P1250,Russell,Hernandez,7,05/06/1982,UK,+44 7980 352652,russell.hernandez@gmail.com,P5581516,LIC857,709 John Manor,Leeds,UK,LS1 9VY,West Yorkshire,confirmed
+P1251,Peter,Walsh,9,14/09/1980,UK,+44 7419 168469,peter.walsh@gmail.com,P6369078,LIC970,106 Victor Islands,Manchester,UK,M1 7XA,Greater Manchester,confirmed
+P1252,Adam,Schultz,17,03/12/1991,UK,+44 7932 236820,adam.schultz@gmail.com,P5907629,LIC449,801 Hernandez Knolls,Edinburgh,UK,EH1 6RF,Edinburgh,confirmed

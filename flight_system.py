@@ -77,7 +77,6 @@ class FlightManager:
     def update_destination(self):
         print("\n--- Update a Destination ---")
         print("Enter the IATA code of the destination to update.")
-        print("If you're unsure, you can look it up here: https://www.iata.org/en/publications/directories/code-search")
         iata_code = input("IATA code: ").strip().upper()
 
 #Updating destination - only 3 letters will be accepted

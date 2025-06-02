@@ -1,6 +1,6 @@
-airport_id,name,city,country,iata_code
-1,Heathrow Airport,London,UK,LHR
-2,Charles de Gaulle,Paris,France,CDG
-3,John F. Kennedy Intl,New York,USA,JFK
-4,Schiphol,Amsterdam,Netherlands,AMS
-5,Dubai Intl,Dubai,UAE,DXB
+iata_code,name,city,country
+LHR,Heathrow Airport,London,UK
+CDG,Charles de Gaulle,Paris,France
+JFK,John F. Kennedy Intl,New York,USA
+AMS,Schiphol,Amsterdam,Netherlands
+DXB,Dubai Intl,Dubai,UAE
